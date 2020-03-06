@@ -10,4 +10,4 @@
 Build `FFI.sln` using Visual Studio 2019.
 Run and build multiple project `IdentityServer, SampleApi and SampleClient`
 
-[see detail build](IdentityServer/README.md)
+[see detail build](IdentityServer/README.md) IdentityServer Project.
