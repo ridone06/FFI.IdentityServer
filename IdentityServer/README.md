@@ -1,4 +1,4 @@
-﻿# Indentity Server for FFI
+﻿# Identity Server for FFI
 
 ## 1. Build requirements
 
@@ -10,7 +10,7 @@
 
 Build `FFI.sln` using Visual Studio 2019.
 
-## 3. Migration Database CLI (`Run on Package Manager Console` on VS 2019)
+## 3. Migration Database CLI (`Run on Package Manager Console` on VS 2019) if migration not exist
 
 ```txt
 	dotnet ef migrations add InitialUsersDbMigration -c ApplicationDbContext -o Data/Migrations --project IdentityServer
