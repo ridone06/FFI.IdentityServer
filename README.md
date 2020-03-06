@@ -14,4 +14,4 @@ Run and build multiple project `IdentityServer, SampleApi and SampleClient`
 
 Copyright 2020 - now.
 
-Licensed under the [MIT License](LICENSE.md)
+Licensed under the [see detail build](IdentityServer/README.md)
