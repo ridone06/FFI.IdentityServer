@@ -1,0 +1,9 @@
+.vs
+Logs
+obj
+IdentityServer/bin
+IdentityServer/obj
+SampleApi/bin
+SampleApi/obj
+SampleClient/bin
+SampleClient/obj
